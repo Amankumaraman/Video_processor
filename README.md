@@ -6,7 +6,7 @@ This project provides a web application that allows users to upload videos, proc
 
  Features
 - Video upload and processing
-- Subtitle extraction using `ccextractor`
+- Subtitle extraction using `ffmpeg`
 - Search functionality within video subtitles
 - Django admin interface for video management
 - Dockerized for easy deployment
